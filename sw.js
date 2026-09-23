@@ -1,6 +1,6 @@
 /* Service worker: la app funciona sin conexión tras la primera visita.
    Si cambias cualquier archivo, sube VERSION para que los móviles se actualicen. */
-const VERSION = "hi10-v2";
+const VERSION = "hi10-v3";
 const CORE = [
   "./", "index.html", "styles.css", "data.js", "app.js", "manifest.webmanifest",
   "fonts/rye.woff2",
